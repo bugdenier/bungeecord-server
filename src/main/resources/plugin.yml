@@ -1,0 +1,4 @@
+name: SimpleChangeServer
+version: '${project.version}'
+main: me.nkdevz.simplechangeserver.SimpleChangeServer
+api-version: 1.16
